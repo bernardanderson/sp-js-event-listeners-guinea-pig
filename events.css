@@ -1,0 +1,28 @@
+.css-make-blue {
+  color: blue;
+}
+
+.css-get-larger {
+  font-size: 2.5rem;
+}
+
+.css-add-border {
+  border: 2px solid green;
+}
+
+.css-round-border {
+  border-radius: 50px;
+}
+
+article > section:first-child {
+  font-weight: bold;
+}
+
+article > section:last-child {
+  font-weight: bold;
+  font-style: italic;
+}
+
+button {
+  display: block;
+}
